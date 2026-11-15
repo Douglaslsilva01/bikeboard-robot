@@ -3,7 +3,7 @@ Library           Browser
 Resource          ./actions/ads.resource
 
 *** Variables ***
-${BASE_URL}       http://localhost:3000
+${BASE_URL}       https://bikeboard-homolog.vercel.app/
 ${BROWSER}        chromium
 
 *** Keywords ***
